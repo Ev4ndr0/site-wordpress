@@ -91,3 +91,10 @@ down:
 logs:
 	@bash ./.utils/message.sh info "[INFO] Show containers logs"
 	docker-compose logs $(filter-out $@,$(MAKECMDGOALS)) --tail="100"
+
+.PHONY: remove-work
+remove-work:
+	@bash ./.utils/message.sh info "[INFO] Remove files"
+	sudo rm -rf mysql/*
+	sudo rm -rf src/br.com.site/
+
