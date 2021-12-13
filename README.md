@@ -18,7 +18,7 @@ Uma vez que todo o ambiente estiver completo, faça o clone deste projeto para s
 
 ```sh
 cd ~
-git clone
+git clone https://github.com/dev-acnsf/docker-wordpress.git
 
 cd docker-wordpress
 ```
