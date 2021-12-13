@@ -95,6 +95,7 @@ logs:
 .PHONY: remove-work
 remove-work:
 	@bash ./.utils/message.sh info "[INFO] Remove files"
+	@make down
 	sudo rm -rf mysql/*
 	sudo rm -rf src/br.com.site/
 
