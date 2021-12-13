@@ -1,0 +1,10 @@
+.env
+src/.certs
+src/**/.logs/error.log
+src/**/.logs/other_vhosts_access.log
+src/**/themes/index.php
+src/**/twentytwentyone/
+src/**/twentyfifteen/
+src/**/twentysixteen/
+src/**/twentyseventeen/
+src/**/.logs/
