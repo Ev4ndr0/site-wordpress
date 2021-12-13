@@ -52,3 +52,9 @@ O desafio é muito simples do ponto de vista técnico. Todos os passos anteriore
 | Criar Plugin Shortcode Para formulário | Criar um plugin que utiliza recursos de Shortcode para renderização de um formulário no corpo de um post. Campos: nome, e-mail e cpf com validação simples em Javascript (bordas avermelhadas e mensagem estilizada). Premissa: Esse formulário tem que ter os arquivos form.html, form-validate.js e form.css incorporados em arquivos separadamente.                                        |
 | Criar Homepage Utilizando Elementor    | Criar uma Homepage seguindo como referência, outros sites que carregam os elementos como: menu suspenso, banner carousel e sections no body da página. Fontes para inspiração: https://salvaimerainha.org.br/ e https://www.fatima.org.br/ . O tema da homepage deve ser 13 de maio. O que será avaliado neste quesito são as competências de composição de elementos e organização do layout |
 | Criar Página para Formulário           | Este página, será para renderizar o formulário criado através do plugin Shortcode. Ao submeter o formulário livre de erros, exibir uma segunda página de sucesso, com uma mensagem contendo os dados que formam submetidos em sessão($\_SESSION). Utilizar banco de dados para captura do formulário será mais um diferencial                                                                 |
+
+## Entrega do projeto
+
+Para conclusão do desafio, crie um projeto no seu Github pessoal e submeta seu projeto com um README.md adequado, explicando a lógica ou conceito aplicado em cada passo implementado, para analisarmos como você organiza suas ideias frente a prática do desafio.
+
+Este desafio pode ser entregue em 4 dias. Ao término, por favor nos encaminhar o link do projeto no github para podermos avaliar sua entrega. Boa sorte!
